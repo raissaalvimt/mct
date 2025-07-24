@@ -1,0 +1,28 @@
+Variable,Type,Description
+nome,Qualitativa nominal,Nome completo do entrevistado
+data_entrevista,Quantitativa contínua (data),Data da entrevista
+horario_entrevista,Qualitativa ordinal,Horário da entrevista
+nome_entrevistador,Qualitativa nominal,Nome do entrevistador
+local_entrevista,Qualitativa nominal,Endereço completo e ponto de referência
+data_nascimento,Quantitativa contínua (data),Data de nascimento do entrevistado
+cidade_estado_natal,Qualitativa nominal,Cidade e estado onde nasceu/cresceu
+idade_vinda_sp,Quantitativa discreta,Idade que veio para São Paulo
+forma_mudanca_sp,Qualitativa nominal,"Se mudou sozinha, com família, etc."
+bairro_atual,Qualitativa nominal,Bairro/cidade onde reside atualmente
+tipo_residencia,Qualitativa nominal,Tipo de residência atual
+motivo_vinda_sp,Qualitativa nominal,Motivo de vir para São Paulo
+valor_moradia,Quantitativa contínua,Valor médio da moradia
+autoidentificacao,Qualitativa nominal,Identidade de gênero
+idade_compreensao_genero,Quantitativa discreta,Idade em que se entendeu dessa forma
+idade_transicao_social,Quantitativa discreta,Idade da transição social
+status_nome_social,Qualitativa nominal,Status do uso de nome social/documentação
+idade_revelacao_familia,Quantitativa discreta,Idade em que contou para a família
+reacao_familia,Qualitativa nominal,Reação da família e consequências
+forma_acolhimento,Qualitativa nominal,Por quem foi acolhida
+escolaridade,Qualitativa ordinal,Nível de escolaridade
+motivo_parada_estudos,Qualitativa nominal,Motivo para interrupção dos estudos
+questoes_saude,Qualitativa nominal,Possui questões de saúde
+hormonizacao,Qualitativa nominal,Faz hormonização e forma de acesso
+silicone_industrial,Qualitativa nominal,Aplicação de silicone industrial
+forma_renda,Qualitativa nominal,Forma de obtenção de renda
+violencia_cliente,Qualitativa nominal,Sofreu violência por cliente
