@@ -1,6 +1,9 @@
 # Extração de Dados - Formulários MCT (Minha Criança Trans)
 
-Este projeto tem como objetivo automatizar a coleta de informações de formulários digitalizados relacionados à pesquisa com pessoas trans/travestis vinculadas à ONG **Minha Criança Trans (MCT)**, em parceria com o **Ministério dos Direitos Humanos e da Cidadania**.
+Esta parte do projeto realiza o reconhecimento óptico de caracteres (OCR) em arquivos PDF digitalizados, extraindo o conteúdo de texto com o auxílio de `pdf2image` e `pytesseract`.
+
+# OCR de Digitalizações MCTI
+
 
 ## Etapas do Processo
 
