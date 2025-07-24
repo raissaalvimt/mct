@@ -45,4 +45,11 @@ Este projeto tem como objetivo automatizar a coleta de informações de formulá
 - `pandas`
 
 ## 📁 Estrutura do Projeto
+📂 extracao_formularios
+├── imagens/
+│ └── formulario1.png
+├── extrator.py
+├── dados_extraidos.xlsx
+├── variaveis_formulario.csv
+└── README.md
 
