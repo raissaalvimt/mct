@@ -1,4 +1,4 @@
-# Extração de Dados - Formulários MCTI (Minha Criança Trans)
+# Extração de Dados - Formulários MCT (Minha Criança Trans)
 
 Este projeto tem como objetivo automatizar a coleta de informações de formulários digitalizados relacionados à pesquisa com pessoas trans/travestis vinculadas à ONG **Minha Criança Trans (MCT)**, em parceria com o **Ministério dos Direitos Humanos e da Cidadania**.
 
